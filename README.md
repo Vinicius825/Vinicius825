@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Vinicius825
 - 👀 I’m interested in ...  Aprender e praticar meus estudos.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on ... HTML, CSS, JavaScript, Python e Django.
+
 - 📫 How to reach me ... viniciusbenedito004@outlook.com
 
 <!---
